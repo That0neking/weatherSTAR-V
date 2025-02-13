@@ -1,0 +1,4 @@
+Make sure to report any bugs or issues in the Issues tab
+= February 12, 2025 =
+ -  Simulator released
+FIELS TO GET/CHANGE: entire webroot folder
