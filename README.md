@@ -4,7 +4,7 @@ Weather Star JR emulation in HTML/JS/CSS, orginal made by [TheGoldDiamond9](http
 Code mostly made by TheGoldDiamond9, rest of the code used in other open source projects.
 With additions by me and some help from TGD9.
 
-[https://github.com/That0neking/weatherSTAR-V/blob/main/webroot/images/WSVScreenshot.jpeg]
+![alt text](https://github.com/That0neking/weatherSTAR-V/blob/main/webroot/images/WSVScreenshot.jpeg "Screenshot")
 
 ## Installation Instructions:
 ## Running locally (NODE.JS):
