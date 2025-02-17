@@ -1,16 +1,8 @@
-# Weather Star JR Simulator
-Weather Star JR emulation in HTML/JS/CSS
+# Weather Star V Simulator
+Weather Star JR emulation in HTML/JS/CSS, orginal made by [TheGoldDiamond9](https://github.com/TheGoldDiamond9). But now it's being expanded upon by me.
 
-Official Website: https://jr.weatherstar.dev
-
-### Visit the Discord Server
-Visit the Disocrd: https://mistwx.com/discord
-
-The license does not prohibit this, but I do not recommend making your own website around this simulator. It is not nice.
-
-Code mostly made by me, rest of the code used in other open source projects.
-
-Please note 30 day outlook is not functional, it will be sometime in the future.
+Code mostly made by TheGoldDiamond9, rest of the code used in other open source projects.
+With additions by me and some help from TGD9.
 
 ## Installation Instructions:
 ## Running locally (NODE.JS):
